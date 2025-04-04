@@ -4,7 +4,3 @@ if all(value > 50 for value in d["tiham"]):
     print("yes")
 else:
     print('ille')
-
-print("Hello")
-print("Hello")
-#just printing hell
